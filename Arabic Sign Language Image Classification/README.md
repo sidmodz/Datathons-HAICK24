@@ -1,5 +1,5 @@
 # HAICK-Image_Classification
-<img src ='https://github.com/sidmodz/HAICK24-Image_Classification/blob/e28ea75a803d182d03eedf2e05020bef5b32c593/sign_language.png'>
+<img src ='https://github.com/sidmodz/Datathons-HAICK24/blob/c8bdb91c9bf293d53318ce129d1ba82938aa1fc4/Arabic%20Sign%20Language%20Image%20Classification/sign_language.png'>
 Sign language is crucial for communication between deaf and hearing individuals. Arabic Sign Language, which uses specific gestures corresponding to the Arabic alphabet, presents an intriguing problem for deep learning-based image classification.
 
 The objective of this project is to develop a system capable of detecting and classifying Arabic Sign Language gestures accurately. Leveraging the state-of-the-art YOLOv8 classification model, this system has been fine-tuned on a dataset of Arabic sign language images, with each image representing a specific letter of the Arabic alphabet.
